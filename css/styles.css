@@ -1,0 +1,52 @@
+div{
+  background-color: transparent;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  text-align: center;
+}
+
+h1
+{
+  color: #ECDBBA;
+  margin: 0;
+  text-align: center;
+  font-size: 72px;
+  font-family: "Lucida Handwriting";
+}
+
+.vertical-line
+{
+  border:10px;
+  border-color:grey;
+}
+
+p{
+  color: #8FD6E1;
+  margin: 5px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.small-heading{
+  display: inline-block;
+  color: grey;
+  font-size: 20px;
+  margin: 5px;
+  border-color: grey;
+  border-left: 2px;
+}
+
+.footer{
+  background-color: transparent;
+  position: relative;
+  text-align: center;
+  margin-top: 50px;
+  left: 0;
+}
+
+img{
+  width: 32px;
+  height: 32px;
+  padding: 5px;
+}
